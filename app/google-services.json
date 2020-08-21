@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474719041575",
+    "firebase_url": "https://covidjaga.firebaseio.com",
+    "project_id": "covidjaga",
+    "storage_bucket": "covidjaga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474719041575:android:c422b4d4cdb26d52333602",
+        "android_client_info": {
+          "package_name": "com.schoolvote.covidjaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474719041575-t8qd73q4jvij7ha1hiqvk9agfrcrpkga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schoolvote.covidjaga",
+            "certificate_hash": "f42d10092913d63cfacf94e36e60df059012aa9c"
+          }
+        },
+        {
+          "client_id": "474719041575-3grh8e6nijl5mnlj9trflbl76j9j4vml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4EhKJYiZwgZUJ1tx1aQHEWxkTN9eSvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474719041575-3grh8e6nijl5mnlj9trflbl76j9j4vml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">COVID자가\n-자가진단 앱-</string>
+
+    <string name="email">이메일</string>
+    <string name="pw">비밀번호</string>
+    <string name="reg">회원가입</string>
+    <string name="login">로그인</string>
+    <string name="emh">example@covidjaga.com</string>
+    <string name="jaga">자가진단 하러 가기</string>
+    <string name="tt">오늘의 코로나 팁</string>
+    <string name="hh">확진자 현황</string>
+    <string name="ver">앱 정보</string>
+</resources>
